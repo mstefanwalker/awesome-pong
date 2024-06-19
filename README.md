@@ -2,7 +2,7 @@
 
 Install
 
-jdk8-openjdk, jre8-openjdk
+`jdk8-openjdk`, `jre8-openjdk`
 
 ```bash
 cd src
